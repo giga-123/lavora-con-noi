@@ -40,4 +40,4 @@ Assistenza Tecnica
 
 Per ulteriori info
 
-+393270851723
+<a href="tel:+393270851723">(+39) 327-0851723</a>
