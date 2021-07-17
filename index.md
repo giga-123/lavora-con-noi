@@ -9,25 +9,21 @@ Azienda Leader nel settore del trattamento acqua e aria ricerca personale da for
 ### La formazione iniziale prevede:
 
 ```markdown
-
 Fisso Variabile + Provvigioni
 Inserimento immediato
 Supporto Continuativo
 Premi produzione mensile
 Inquadramento a norma di legge
-
 ```
 
 **Posizione finale: Assunzione nei dipartimenti aziendali**
 
 ```markdown
-
 Segreteria
 Risorse Umane
 Amministrazione
 Commerciale
 Assistenza Tecnica
-
  ```
  
  
@@ -35,11 +31,13 @@ Assistenza Tecnica
  
  Sono richieste:
  
-Buona Dialettica
-Predisposizione ai rapporti interpersonali
-Capacità di organizzazione e professionalità
-Intraprendenza e orientamento al risultato
-Disponibilità Full-Time
+- Buona Dialettica
+- Predisposizione ai rapporti interpersonali
+- Capacità di organizzazione e professionalità
+- Intraprendenza e orientamento al risultato
+- Disponibilità Full-Time
+
 
 Per ulteriori info
+
 +393270851723
