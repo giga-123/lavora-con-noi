@@ -1,29 +1,21 @@
-## Welcome to GitHub Pages
+## RICERCA DI PERSONALE OSTIA
 
-You can use the [editor on GitHub](https://github.com/giga-123/biosalus-ostia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Azienda Leader nel settore del trattamento acqua e aria ricerca personale da formare e inserire nel proprio organico.
 
-### Markdown
+Posizione Iniziale: Consulente.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### La formazione iniziale prevede:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Fisso Variabile + Provvigioni
+Inserimento immediato
+Supporto Continuativo
+Premi produzione mensile
+Inquadramento a norma di legge
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
